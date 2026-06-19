@@ -10,3 +10,4 @@ Center for Critical Computational Studies (C³S), Goethe University Frankfurt am
 - 
 
 ## Links
+Linkedin: [LinkedIn](https://www.linkedin.com/in/paula-helm/)
