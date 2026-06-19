@@ -23,6 +23,18 @@ We investigate the ethical dimensions of computational systems through empirical
  
 ---
  
+## Partners & Collaborators
+ 
+We are building connections with external researchers and institutions, including:
+ 
+- **ELLIS Foundation Alicante**
+- **Gabor Bella** — IMT Atlantique
+- **Saurabh Kannah**
+  
+*GitHub links coming soon.*
+ 
+---
+ 
 ## Repository Structure
  
 ```
