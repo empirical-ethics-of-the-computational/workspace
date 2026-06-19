@@ -14,3 +14,5 @@ Center for Critical Computational Studies (C³S), Goethe University Frankfurt am
 ## Links
 -
 GitHub: [@MihlaliGubevu](https://github.com/MihlaliGubevu)
+
+Linkedin: [LinkedIn](https://www.linkedin.com/in/mihlaligubevu/)
