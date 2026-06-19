@@ -10,3 +10,5 @@
 
 ## Links
 - GitHub: [@GAvellino](https://github.com/GAvellino)
+
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/gianmariaavellino/)
