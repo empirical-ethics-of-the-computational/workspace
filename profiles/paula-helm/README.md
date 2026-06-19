@@ -10,5 +10,6 @@ Center for Critical Computational Studies (C³S), Goethe University Frankfurt am
 - 
 
 ## Links
+- Ethics of the Computational C3S : [Ethics of the Computational C3S](https://www.c3s-frankfurt.de/who-we-are/prof-dr-paula-helm)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/paula-helm/)
 - ORCID : [ORCID](https://orcid.org/0000-0002-2719-9721)
