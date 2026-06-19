@@ -1,7 +1,7 @@
 
 # Empirical Ethics of the Computational Workspace
  
-Welcome to the GitHub organization of the **Empirical Ethics of the Computational** research group, headed by **Prof. Dr. Paula Helm** at the [Center for Critical Computational Studies (C³S)](https://www.goethe-university-frankfurt.de), Goethe University Frankfurt am Main.
+Welcome to the GitHub organization of the **Empirical Ethics of the Computational** research group, headed by **Prof. Dr. Paula Helm** at the [Center for Critical Computational Studies (C³S)](https://www.c3s-frankfurt.de/#c3s), Goethe University Frankfurt am Main.
  
 ---
  
