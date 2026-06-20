@@ -49,7 +49,7 @@ empirical-ethics-of-the-computational/
  
 ## Connect With Us
  
-- Website; [Center for Critical Computational Studies (C³S)](https://www.goethe-university-frankfurt.de)
+- Website: [Center for Critical Computational Studies (C³S)](https://www.goethe-university-frankfurt.de)
 - Linkedin: [LinkedIn](https://www.linkedin.com/company/center-for-critical-computational-studies/)
 - Location: Frankfurt am Main,Germany and Amsterdam, Netherlands
 ---
