@@ -7,7 +7,7 @@ Welcome to the GitHub organization of the **Empirical Ethics of the Computationa
  
 ## About the Group
  
-We investigate the ethical dimensions of computational systems through empirical methods. Our work sits at the intersection of philosophy, social science, and computer science — examining how computational technologies shape, and are shaped by, social and ethical norms.
+We investigate the ethical dimensions of computational systems through empirical methods. Our work sits at the intersection of philosophy, social science, and computer science, examining how computational technologies shape, and are shaped by, social and ethical norms.
  
 ---
  
@@ -20,18 +20,6 @@ We investigate the ethical dimensions of computational systems through empirical
 | Ella Streefkerk | PhD Researcher | [→ Profile](./profiles/ella-streefkerk/) |
 | Yarden | PhD Researcher | [→ Profile](./profiles/yarden/) |
 | Mihlali Gubevu | Research Assistant | [→ Profile](./profiles/mihlali-gubevu/) |
- 
----
- 
-## Partners & Collaborators
- 
-We are building connections with external researchers and institutions, including:
- 
-- **ELLIS Foundation Alicante**
-- **Gabor Bella** — IMT Atlantique
-- **Saurabh Kannah**
-  
-*GitHub links coming soon.*
  
 ---
  
