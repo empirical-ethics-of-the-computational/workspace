@@ -11,6 +11,7 @@ A master's candidate in Science and Technology Studies at Goethe-Universität Fr
 ## Research Interests
 - AI governance and corporate responsible AI frameworks
 - Data protection regulation and cross-jurisdictional governance
+- Algorithms and Society
 - Science and Technology Studies, co-production, and infrastructure
 - Discourse analysis as a method for studying institutional documents
 
