@@ -1,7 +1,6 @@
 # Yarden Skop
 
-**PhD Researcher** — Empirical Ethics of the Computational
-Center for Critical Computational Studies (C³S), Goethe University Frankfurt am Main
+**Research Associate** - Paderborn University, Paderborn, Germany
 
 ## About
 *Bio coming soon.*
@@ -11,3 +10,5 @@ Center for Critical Computational Studies (C³S), Goethe University Frankfurt am
 
 ## Links
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/yarden-skop/)
+  
+-  ORCID : [ORCID](https://orcid.org/0000-0001-7833-9811)
